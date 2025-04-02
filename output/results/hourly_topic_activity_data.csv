@@ -1,0 +1,192 @@
+time,topic_name,count
+0,Coastal Wind Warning,1
+0,DRRM Office Activities,2
+0,Emergency Hotlines,51
+0,General Flood Advisory,5
+0,PAGASA Weather Advisory,3
+0,Public Weather Advisory,2
+0,Thunderstorm Safety Advisory,1
+0,Tropical Cyclone Bulletin,4
+0,Weather Advisory,8
+0,Weather Disturbance Updates,4
+1,Coastal Wind Warning,1
+1,DRRM Office Activities,11
+1,Emergency Hotlines,30
+1,General Flood Advisory,4
+1,PAGASA Weather Advisory,10
+1,Public Weather Advisory,2
+1,Thunderstorm Safety Advisory,3
+1,Tropical Cyclone Bulletin,7
+1,Weather Advisory,2
+1,Weather Disturbance Updates,3
+2,DRRM Office Activities,6
+2,Emergency Hotlines,15
+2,PAGASA Weather Advisory,44
+2,Public Weather Advisory,2
+2,Thunderstorm Safety Advisory,2
+2,Tropical Cyclone Bulletin,1
+2,Weather Advisory,7
+2,Weather Disturbance Updates,17
+3,Coastal Wind Warning,2
+3,DRRM Office Activities,7
+3,Emergency Hotlines,19
+3,PAGASA Weather Advisory,9
+3,Public Weather Advisory,11
+3,Thunderstorm Safety Advisory,2
+3,Tropical Cyclone Bulletin,9
+3,Weather Advisory,7
+3,Weather Disturbance Updates,5
+4,DRRM Office Activities,5
+4,Emergency Hotlines,11
+4,General Flood Advisory,1
+4,PAGASA Weather Advisory,8
+4,Public Weather Advisory,5
+4,Thunderstorm Safety Advisory,5
+4,Tropical Cyclone Bulletin,5
+4,Weather Advisory,2
+4,Weather Disturbance Updates,2
+5,Coastal Wind Warning,1
+5,DRRM Office Activities,5
+5,Emergency Hotlines,5
+5,PAGASA Weather Advisory,13
+5,Public Weather Advisory,3
+5,Thunderstorm Safety Advisory,7
+5,Weather Disturbance Updates,3
+6,Coastal Wind Warning,2
+6,DRRM Office Activities,6
+6,Emergency Hotlines,9
+6,General Flood Advisory,11
+6,PAGASA Weather Advisory,17
+6,Public Weather Advisory,34
+6,Thunderstorm Safety Advisory,13
+6,Tropical Cyclone Bulletin,2
+6,Weather Disturbance Updates,2
+7,DRRM Office Activities,4
+7,Emergency Hotlines,11
+7,General Flood Advisory,7
+7,PAGASA Weather Advisory,16
+7,Public Weather Advisory,11
+7,Thunderstorm Safety Advisory,28
+7,Tropical Cyclone Bulletin,4
+7,Weather Disturbance Updates,7
+8,DRRM Office Activities,8
+8,Emergency Hotlines,13
+8,General Flood Advisory,3
+8,PAGASA Weather Advisory,41
+8,Public Weather Advisory,5
+8,Thunderstorm Safety Advisory,13
+8,Tropical Cyclone Bulletin,4
+8,Weather Advisory,20
+8,Weather Disturbance Updates,8
+9,Coastal Wind Warning,2
+9,DRRM Office Activities,1
+9,Emergency Hotlines,7
+9,General Flood Advisory,5
+9,PAGASA Weather Advisory,13
+9,Public Weather Advisory,30
+9,Thunderstorm Safety Advisory,13
+9,Tropical Cyclone Bulletin,5
+9,Weather Advisory,18
+9,Weather Disturbance Updates,3
+10,DRRM Office Activities,6
+10,Emergency Hotlines,4
+10,General Flood Advisory,10
+10,PAGASA Weather Advisory,7
+10,Public Weather Advisory,12
+10,Thunderstorm Safety Advisory,9
+10,Tropical Cyclone Bulletin,2
+10,Weather Advisory,5
+10,Weather Disturbance Updates,1
+11,DRRM Office Activities,5
+11,Emergency Hotlines,7
+11,General Flood Advisory,6
+11,PAGASA Weather Advisory,4
+11,Public Weather Advisory,5
+11,Thunderstorm Safety Advisory,8
+11,Tropical Cyclone Bulletin,1
+11,Weather Advisory,1
+11,Weather Disturbance Updates,2
+12,Coastal Wind Warning,4
+12,DRRM Office Activities,3
+12,Emergency Hotlines,3
+12,General Flood Advisory,4
+12,PAGASA Weather Advisory,6
+12,Public Weather Advisory,14
+12,Thunderstorm Safety Advisory,17
+12,Tropical Cyclone Bulletin,3
+12,Weather Advisory,1
+12,Weather Disturbance Updates,3
+13,Coastal Wind Warning,1
+13,DRRM Office Activities,7
+13,General Flood Advisory,2
+13,PAGASA Weather Advisory,13
+13,Public Weather Advisory,5
+13,Thunderstorm Safety Advisory,6
+13,Tropical Cyclone Bulletin,1
+13,Weather Advisory,1
+13,Weather Disturbance Updates,3
+14,DRRM Office Activities,7
+14,Emergency Hotlines,1
+14,PAGASA Weather Advisory,53
+14,Public Weather Advisory,1
+14,Thunderstorm Safety Advisory,7
+14,Weather Disturbance Updates,9
+15,Coastal Wind Warning,2
+15,Emergency Hotlines,2
+15,General Flood Advisory,1
+15,PAGASA Weather Advisory,20
+15,Public Weather Advisory,9
+15,Thunderstorm Safety Advisory,3
+15,Tropical Cyclone Bulletin,10
+15,Weather Disturbance Updates,4
+16,Coastal Wind Warning,4
+16,Emergency Hotlines,4
+16,PAGASA Weather Advisory,4
+16,Public Weather Advisory,5
+16,Thunderstorm Safety Advisory,1
+16,Tropical Cyclone Bulletin,2
+16,Weather Disturbance Updates,3
+17,DRRM Office Activities,1
+17,Thunderstorm Safety Advisory,1
+17,Weather Disturbance Updates,3
+18,PAGASA Weather Advisory,1
+18,Public Weather Advisory,2
+18,Thunderstorm Safety Advisory,2
+18,Tropical Cyclone Bulletin,4
+19,PAGASA Weather Advisory,1
+19,Public Weather Advisory,3
+19,Thunderstorm Safety Advisory,3
+20,DRRM Office Activities,2
+20,Emergency Hotlines,1
+20,General Flood Advisory,1
+20,PAGASA Weather Advisory,14
+20,Public Weather Advisory,1
+20,Thunderstorm Safety Advisory,1
+20,Weather Advisory,1
+20,Weather Disturbance Updates,5
+21,Coastal Wind Warning,2
+21,General Flood Advisory,2
+21,PAGASA Weather Advisory,8
+21,Public Weather Advisory,6
+21,Thunderstorm Safety Advisory,1
+21,Tropical Cyclone Bulletin,3
+21,Weather Advisory,65
+21,Weather Disturbance Updates,2
+22,DRRM Office Activities,1
+22,General Flood Advisory,13
+22,PAGASA Weather Advisory,6
+22,Public Weather Advisory,3
+22,Thunderstorm Safety Advisory,2
+22,Tropical Cyclone Bulletin,4
+22,Weather Advisory,37
+22,Weather Disturbance Updates,7
+23,Coastal Wind Warning,2
+23,DRRM Office Activities,1
+23,Emergency Hotlines,52
+23,General Flood Advisory,5
+23,PAGASA Weather Advisory,5
+23,Public Weather Advisory,1
+23,Thunderstorm Safety Advisory,2
+23,Tropical Cyclone Bulletin,3
+23,Weather Advisory,19
+23,Weather Disturbance Updates,2

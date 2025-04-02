@@ -1,0 +1,11 @@
+topic_name,topic_id,post_count,volume_category,avg_doc_assignment_prob,density_category,top_20_word_concentration
+PAGASA Weather Advisory,3,316,High Volume,0.9182546694005698,High Density,0.34818951984055396
+Weather Advisory,9,194,High Volume,0.9280771349224685,High Density,0.17351068433894498
+Public Weather Advisory,1,172,High Volume,0.962118901784649,High Density,0.18964604342207406
+Emergency Hotlines,8,245,High Volume,0.8656430590469183,Medium Density,0.29640066581340857
+Thunderstorm Safety Advisory,2,150,Medium Volume,0.9278090906678749,High Density,0.17271538102848388
+Weather Disturbance Updates,7,98,Medium Volume,0.7494491976033396,Low Density,0.25148860260994926
+General Flood Advisory,5,80,Low Volume,0.8751416408743182,Medium Density,0.21997222163197347
+DRRM Office Activities,6,88,Low Volume,0.6912628242659029,Low Density,0.1875852248262139
+Tropical Cyclone Bulletin,0,74,Low Volume,0.8002804076775331,Low Density,0.1910439116084761
+Coastal Wind Warning,4,24,Low Volume,0.7562005695694238,Low Density,0.09800204232949784

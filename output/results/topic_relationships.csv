@@ -1,0 +1,25 @@
+source_topic,target_topic,shared_word_count,shared_words_sample
+Tropical Cyclone Bulletin,Public Weather Advisory,3,"pm, issued, next"
+Tropical Cyclone Bulletin,Thunderstorm Safety Advisory,1,issued
+Tropical Cyclone Bulletin,PAGASA Weather Advisory,5,"cyclone, tropical cyclone, tropical, pm, today"
+Tropical Cyclone Bulletin,Coastal Wind Warning,1,winds
+Tropical Cyclone Bulletin,General Flood Advisory,4,"pm, cyclone, tropical cyclone, issued"
+Tropical Cyclone Bulletin,DRRM Office Activities,1,storm
+Tropical Cyclone Bulletin,Weather Disturbance Updates,2,"tropical, today"
+Tropical Cyclone Bulletin,Weather Advisory,4,"winds, issued, kmh, valid"
+Public Weather Advisory,Thunderstorm Safety Advisory,1,issued
+Public Weather Advisory,PAGASA Weather Advisory,1,pm
+Public Weather Advisory,Coastal Wind Warning,1,warning
+Public Weather Advisory,General Flood Advisory,2,"pm, issued"
+Public Weather Advisory,DRRM Office Activities,6,"risk reduction management, management, reduction management, risk, reduction"
+Public Weather Advisory,Weather Advisory,2,"weather, issued"
+Thunderstorm Safety Advisory,PAGASA Weather Advisory,2,"updates, advised"
+Thunderstorm Safety Advisory,General Flood Advisory,1,issued
+Thunderstorm Safety Advisory,Weather Disturbance Updates,2,"updates, advised"
+Thunderstorm Safety Advisory,Weather Advisory,1,issued
+PAGASA Weather Advisory,Coastal Wind Warning,1,areas
+PAGASA Weather Advisory,General Flood Advisory,3,"cyclone, tropical cyclone, pm"
+PAGASA Weather Advisory,Weather Disturbance Updates,7,"updates, pressure, low, low pressure, advised"
+Coastal Wind Warning,General Flood Advisory,1,northern
+Coastal Wind Warning,Weather Advisory,1,winds
+General Flood Advisory,Weather Advisory,3,"forecast, mindanao, issued"
