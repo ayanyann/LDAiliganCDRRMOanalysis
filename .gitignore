@@ -6,7 +6,7 @@ __pycache__/
 .env
 
 # Output directories
-output/
+# output/
 # *.csv
 # *.html
 # *.png
