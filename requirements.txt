@@ -1,0 +1,12 @@
+pandas
+plotly
+pyldavis
+gensim
+scikit-learn
+nltk
+networkx
+wordcloud
+matplotlib
+google-generativeai
+python-dotenv  # To load environment variables for API key
+
